@@ -4,7 +4,7 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Prarambh--2.0--Hackathon-181717?style=for-the-badge&logo=github)](https://github.com/Shree0802/Prarambh-2.0-Hackthaon)
 
 🌐 **Live Deployed Prototype**: https://allhackathons-client.vercel.app/
-![Eductech_Interface](EDUTECH_Interface)
+![EDUTECH_Interface](EDUTECH_Interface)
 
 ---
 
