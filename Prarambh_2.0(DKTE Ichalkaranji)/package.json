@@ -1,0 +1,19 @@
+{
+  "name": "edutech-fullstack",
+  "version": "1.0.0",
+  "description": "EDUTECH - AI-Powered Evidence-Based Skill Intelligence & Industry Readiness Platform",
+  "main": "server/index.js",
+  "scripts": {
+    "install:client": "cd client && npm install",
+    "install:server": "cd server && npm install",
+    "install:all": "npm run install:server && npm run install:client",
+    "build:client": "cd client && npm run build",
+    "build": "npm run install:all && npm run build:client",
+    "start": "node server/index.js",
+    "dev:server": "cd server && node index.js",
+    "dev:client": "cd client && npm run dev"
+  },
+  "keywords": ["edutech", "hackathon", "mern", "vite", "skill-intelligence"],
+  "author": "Prathamesh Patil",
+  "license": "MIT"
+}

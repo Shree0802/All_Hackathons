@@ -1,6 +1,9 @@
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
+import path from 'path';
+import fs from 'fs';
+import { fileURLToPath } from 'url';
 import { connectDB, isMemoryMode } from './config/db.js';
 
 import authRoutes from './routes/authRoutes.js';
@@ -28,6 +31,9 @@ import placementRoutes from './routes/placementRoutes.js';
 import { demoUsers } from './seed/seedData.js';
 
 dotenv.config();
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const app = express();
 
@@ -78,6 +84,16 @@ app.use('/api/portfolio', portfolioRoutes);
 app.use('/api/integrity', integrityRoutes);
 app.use('/api/reports', reportRoutes);
 app.use('/api/placement', placementRoutes);
+
+// Serve frontend in production if built dist folder exists
+const clientDistPath = path.resolve(__dirname, '../client/dist');
+if (fs.existsSync(clientDistPath)) {
+  app.use(express.static(clientDistPath));
+  app.get('*', (req, res, next) => {
+    if (req.path.startsWith('/api')) return next();
+    res.sendFile(path.join(clientDistPath, 'index.html'));
+  });
+}
 
 // Global Error Handler
 app.use((err, req, res, next) => {
