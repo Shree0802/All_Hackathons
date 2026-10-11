@@ -87,7 +87,7 @@ EDUTECH features a sticky top **Jury Control Panel** (`JuryShowcaseBanner.jsx`) 
 * **Database**: MongoDB & Mongoose schemas with an automatic in-memory fallback store for offline/demo environments.
 * **AI Engine**: Google Gemini API (`@google/generative-ai`) with deterministic fallback engines.
 * **Auth**: JWT, bcryptjs, Role-Based Access Control (`student`, `faculty`, `employer`, `admin`).
-* **Deployment**: Deployed on Vercel at [https://edutech-axvercel.vercel.app/](https://edutech-axvercel.vercel.app/)
+* **Deployment**: Deployed on Vercel at [https://edutech-axvercel.vercel.app/](https://allhackathons-client.vercel.app/)
 
 ---
 
@@ -111,7 +111,7 @@ EDUTECH features a sticky top **Jury Control Panel** (`JuryShowcaseBanner.jsx`) 
 ## 6. Live App & Local Setup
 
 ### Live Deployment
-* **Live App URL**: [https://edutech-axvercel.vercel.app/](https://edutech-axvercel.vercel.app/)
+* **Live App URL**: [https://edutech-axvercel.vercel.app/](https://allhackathons-client.vercel.app/)
 
 ### Local Execution
 
