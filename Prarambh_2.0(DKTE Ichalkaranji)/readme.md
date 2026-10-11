@@ -1,7 +1,7 @@
 # EDUTECH | AI-Powered Evidence-Based Competency & Industry Readiness Ecosystem
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-EDUTECH_Vercel_App-0c8de9?style=for-the-badge&logo=vercel)](https://edutech-axvercel.vercel.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Prarambh--2.0--Hackathon-181717?style=for-the-badge&logo=github)](https://github.com/Shree0802/Prarambh-2.0-Hackthaon)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-EDUTECH_Vercel_App-0c8de9?style=for-the-badge&logo=vercel)](https://allhackathons-client.vercel.app/student)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Prarambh--2.0--Hackathon-181717?style=for-the-badge&logo=github)](https://github.com/Shree0802/All_Hackathons/tree/main/Prarambh_2.0(DKTE%20Ichalkaranji))
 
 🌐 **Live Deployed Prototype**: https://allhackathons-client.vercel.app/
 
