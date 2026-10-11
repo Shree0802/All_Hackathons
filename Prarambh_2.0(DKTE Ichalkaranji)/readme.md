@@ -53,6 +53,18 @@ EDUTECH features a sticky top **Jury Control Panel** (`JuryShowcaseBanner.jsx`) 
 ### B. Personalized Skill Graph & Evidence Strength (`SkillGraphPage.jsx`)
 * **Dynamic Connected Graph**: Connected nodes linking `Student → Skills → Evidence → Projects → Assessments → Target Roles`.
 * **Evidence Strength Indicators**: Displays `HIGH`, `MEDIUM`, or `LOW` evidence strength badges accompanied by hover explanations detailing why.
+* 
+### 📊 Student Dashboard
+
+The student dashboard displays the industry readiness score,
+technical competency, practical evidence, assessment performance,
+project verification, and role alignment.
+
+<p align="center">
+  <img src="EDUCTECH_Dashboard.png"
+       alt="EDUTECH Student Dashboard"
+       width="100%">
+</p>
 
 ### C. Standardized Competency Level System (0 to 5) (`CompetencyLevelBadge.jsx`)
 * **Level 0 (0-20%)**: No Evidence
