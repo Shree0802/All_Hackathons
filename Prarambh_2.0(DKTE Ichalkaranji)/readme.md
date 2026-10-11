@@ -107,6 +107,40 @@ project verification, and role alignment.
 * **System Audit Log**: Real-time logging of all verification, submission, and role changes.
 * **Neutral Integrity Flags**: Assigns `Clean`, `Requires Review`, `Potential Inconsistency`, or `Insufficient Evidence` to trigger faculty/admin reviews.
 
+
+---
+
+## 🏆 Hackathon Experience & Achievements
+
+EDUTECH was presented as part of **Team Vision4X** at **PRARAMBH 2.0**, a 24-hour online hackathon presented by the Data Science Student Association (DSSA) of D.K.T.E. Society's Textile & Engineering Institute, Ichalkaranji.
+
+### 📜 Certificate of Recognition
+
+The certificate below recognizes participation in PRARAMBH 2.0 Round 2, the presentation round, on 3 October 2026.
+
+<p align="center">
+  <img src="Hackathon_Certificate.jpeg" alt="PRARAMBH 2.0 Round 2 certificate" width="90%">
+</p>
+
+### 💻 Project Presentation & Demonstration
+
+<p align="center">
+  <img src="img_1.jpeg" alt="Team presenting the EDUTECH project to evaluators" width="90%">
+</p>
+
+### 🏛️ DKTE Campus & Team Photo
+
+<p align="center">
+  <img src="img_3.jpeg" alt="Team photo at D.K.T.E. Society's Textile and Engineering Institute" width="90%">
+</p>
+
+### 🎖️ Round 1 Participation Certificate
+
+The Round 1 participation certificate is available as a PDF:
+
+[View PRARAMBH 2.0 Round 1 Certificate (PDF)](Unstop_certificate.pdf)
+
+
 ---
 
 ## 4. Technology Stack
@@ -146,13 +180,13 @@ project verification, and role alignment.
 
 #### Backend
 ```bash
-cd C:\Users\Prathamesh\.gemini\antigravity\scratch\edutech\server
+cd server
 node index.js
 ```
 
 #### Frontend
 ```bash
-cd C:\Users\Prathamesh\.gemini\antigravity\scratch\edutech\client
+cd client
 npm run dev
 ```
 *App launches on `http://localhost:5173`*
