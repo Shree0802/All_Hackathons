@@ -17,7 +17,7 @@ The landing page introduces the EDUTECH platform and provides access
 to the student platform and employer candidate portal.
 
 <p align="center">
-  <img src="images/EDUTECH_Interface.png"
+  <img src="EDUTECH_Interface.png"
        alt="EDUTECH Platform Landing Page"
        width="100%">
 </p>
