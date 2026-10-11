@@ -136,7 +136,7 @@ The certificate below recognizes participation in PRARAMBH 2.0 Round 2, the pres
 
 ### 🎖️ Round 1 Participation Certificate
 
-The Round 1 participation certificate is available as a PDF:
+The Round 1 participation certificate:
 
 ![View PRARAMBH 2.0 Round 1 Certificate](Unstop_Certificate.png)
 
