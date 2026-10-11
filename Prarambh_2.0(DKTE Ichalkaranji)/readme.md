@@ -4,7 +4,23 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Prarambh--2.0--Hackathon-181717?style=for-the-badge&logo=github)](https://github.com/Shree0802/Prarambh-2.0-Hackthaon)
 
 🌐 **Live Deployed Prototype**: https://allhackathons-client.vercel.app/
-![EDUTECH_Interface](EDUTECH_interface)
+
+## 🖥️ Project Interface
+
+The EDUTECH platform provides an AI-powered skill intelligence system
+that helps students assess their skills, identify skill gaps, and prepare
+for their target careers.
+
+### 🏠 Landing Page
+
+The landing page introduces the EDUTECH platform and provides access
+to the student platform and employer candidate portal.
+
+<p align="center">
+  <img src="images/EDUTECH_Interface.png"
+       alt="EDUTECH Platform Landing Page"
+       width="100%">
+</p>
 
 ---
 
