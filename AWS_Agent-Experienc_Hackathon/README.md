@@ -9,6 +9,7 @@
 [![React](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-61DAFB?logo=react)](https://vitejs.dev/)
 [![Tests](https://img.shields.io/badge/Tests-21%20Passed%20(100%25)-brightgreen)](#-automated-tests)
 
+# 🔗Live Link: https://all-hackathons.vercel.app/
 ---
 
 ## 🌟 Executive Summary
