@@ -1,0 +1,87 @@
+[
+  {
+    "id": "proj_001",
+    "title": "Decider-Assisted Agentic API Gateway",
+    "domain": "Full-Stack AI Engineer",
+    "difficulty": "Intermediate",
+    "estimated_effort": "3-4 Weeks",
+    "portfolio_value": "Very High",
+    "tech_stack": ["Python", "FastAPI", "Strands Decider 2B", "Amazon Bedrock", "Docker"],
+    "problem_statement": "Traditional LLM chains spend hundreds of milliseconds and high token costs routing incoming customer tickets. Build an intelligent gateway using Strands Decider 2B for sub-30ms intent dispatch and Bedrock for final generation.",
+    "key_features": [
+      "Sub-50ms intent and tool routing via Strands Decider 2B wire protocol",
+      "Dynamic prompt injection with calibrated confidence scoring",
+      "Amazon Bedrock Claude Sonnet 3.5 synthesis for complex generative tasks",
+      "Dockerized microservice deployment with telemetry and latency trace metrics"
+    ],
+    "implementation_milestones": [
+      "Week 1: Design typed System One questions and define criteria maps",
+      "Week 2: Implement FastAPI dispatch middleware with Strands Decider client",
+      "Week 3: Integrate Amazon Bedrock fallback and generative enrichment",
+      "Week 4: Write test suite and containerize for AWS App Runner"
+    ]
+  },
+  {
+    "id": "proj_002",
+    "title": "Autonomous Career Intelligence Copilot",
+    "domain": "Full-Stack AI Engineer",
+    "difficulty": "Advanced",
+    "estimated_effort": "4 Weeks",
+    "portfolio_value": "Exceptional",
+    "tech_stack": ["React", "Vite", "Tailwind CSS", "FastAPI", "Strands Agents SDK", "Bedrock"],
+    "problem_statement": "Engineering students get overwhelmed by career roadmaps. Construct an end-to-end interactive career copilot featuring live decision trace visualization, skill gap radar analysis, and dynamic roadmaps.",
+    "key_features": [
+      "Interactive Decision Trace panel showing live model probabilities and confidence",
+      "Deterministic skill gap evaluator linked with personalized roadmap generator",
+      "Strands Agents SDK intervention handlers guarding tool executions",
+      "Responsive dark-mode UI with Recharts and Lucide icons"
+    ],
+    "implementation_milestones": [
+      "Week 1: Core decision engine and Pydantic schemas",
+      "Week 2: Strands Agents integration with Bedrock service",
+      "Week 3: React Vite dashboard, decision lab, and career workspace",
+      "Week 4: End-to-end testing, documentation, and AWS deployment guide"
+    ]
+  },
+  {
+    "id": "proj_003",
+    "title": "Serverless Micro-RAG Document Assistant",
+    "domain": "Backend Cloud Engineer",
+    "difficulty": "Intermediate",
+    "estimated_effort": "2-3 Weeks",
+    "portfolio_value": "High",
+    "tech_stack": ["Python", "FastAPI", "Amazon Bedrock", "Amazon OpenSearch", "AWS Lambda"],
+    "problem_statement": "College departments need instant, citation-backed answers on course syllabi, lab guidelines, and exam schedules without expensive dedicated vector servers.",
+    "key_features": [
+      "Hybrid dense and lexical search on course catalogs",
+      "Amazon Bedrock Titan embeddings paired with Claude Sonnet response synthesis",
+      "Strict provenance citations with chunk boundary highlights",
+      "FastAPI endpoint with rate limiting and AWS IAM role authentication"
+    ],
+    "implementation_milestones": [
+      "Week 1: Document chunking and embedding generation pipeline",
+      "Week 2: Vector search indexing and query retrieval orchestration",
+      "Week 3: API endpoints and automated evaluation benchmarks"
+    ]
+  },
+  {
+    "id": "proj_004",
+    "title": "Interactive Code Review & Vulnerability Triage Bot",
+    "domain": "Data Scientist / ML Engineer",
+    "difficulty": "Intermediate",
+    "estimated_effort": "3 Weeks",
+    "portfolio_value": "High",
+    "tech_stack": ["Python", "Strands Decider 2B", "GitHub Webhooks", "Docker", "PyTorch"],
+    "problem_statement": "Open-source maintainers receive dozens of pull requests daily. Automate fast initial security and code smell triage before calling heavyweight models.",
+    "key_features": [
+      "Strands Decider 2B fast binary classification of PR security risks",
+      "Calibrated confidence thresholds triggering human-in-the-loop alerts",
+      "Automated GitHub comment reporting with suggested refactor diffs"
+    ],
+    "implementation_milestones": [
+      "Week 1: Webhook receiver and AST parser for diff extraction",
+      "Week 2: Decider prompt engineering for vulnerability detection",
+      "Week 3: GitHub PR integration and performance benchmarks"
+    ]
+  }
+]
