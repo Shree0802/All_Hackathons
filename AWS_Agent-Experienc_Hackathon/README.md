@@ -1,6 +1,10 @@
 # SkillPilot AI 🚀
 > **Your Skills. Your Goals. Your Next Move.**
 
+<p align="center">
+  <img src="cover_image.jpg" alt="SkillPilot AI - Your Skills. Your Goals. Your Next Move." width="100%" style="border-radius: 12px;" />
+</p>
+
 [![AWS Agent Hackathon](https://img.shields.io/badge/AWS%20Hackathon-Agent%20Experience-FF9900?logo=amazon-aws)](https://aws.amazon.com/)
 [![Strands Decider 2B](https://img.shields.io/badge/Model-Strands%20Decider%202B-3B82F6)](https://strandsagents.com/blog/introducing-strands-decider/)
 [![Amazon Bedrock](https://img.shields.io/badge/GenAI-Amazon%20Bedrock-8B5CF6?logo=amazon-bedrock)](https://aws.amazon.com/bedrock/)
@@ -9,7 +13,6 @@
 [![React](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-61DAFB?logo=react)](https://vitejs.dev/)
 [![Tests](https://img.shields.io/badge/Tests-21%20Passed%20(100%25)-brightgreen)](#-automated-tests)
 
-# 🔗Live Link: https://all-hackathons.vercel.app/
 ---
 
 ## 🌟 Executive Summary
