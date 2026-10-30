@@ -1,0 +1,72 @@
+[
+  {
+    "id": "intern_001",
+    "title": "AI Agent Engineering Intern",
+    "company": "CloudScale Innovations",
+    "location": "Remote",
+    "role_category": "Full-Stack AI Engineer",
+    "stipend": "$35 - $45 / hr",
+    "duration": "12 Weeks (Summer 2026)",
+    "required_skills": ["Python", "FastAPI", "React", "AWS Cloud Foundations", "LLM Integration / Bedrock"],
+    "min_experience": "Intermediate",
+    "description": "Collaborate on next-generation agent workflows integrating Bedrock foundational models and small specialized decider routers.",
+    "is_sample_data": true,
+    "source_dataset": "Hackathon Sample Dataset"
+  },
+  {
+    "id": "intern_002",
+    "title": "Machine Learning Research Intern",
+    "company": "Apex Neuro Systems",
+    "location": "Bengaluru (Hybrid)",
+    "role_category": "Data Scientist / ML Engineer",
+    "stipend": "₹60,000 / month",
+    "duration": "6 Months",
+    "required_skills": ["Python", "PyTorch / TensorFlow", "Pandas & NumPy", "SQL"],
+    "min_experience": "Intermediate",
+    "description": "Work with our applied research team fine-tuning multi-modal architectures and benchmarking classification heads.",
+    "is_sample_data": true,
+    "source_dataset": "Hackathon Sample Dataset"
+  },
+  {
+    "id": "intern_003",
+    "title": "Cloud Backend Developer Intern",
+    "company": "Nimbus Infrastructure Labs",
+    "location": "Seattle, WA",
+    "role_category": "Backend Cloud Engineer",
+    "stipend": "$40 / hr",
+    "duration": "10 Weeks",
+    "required_skills": ["Python", "Docker & Kubernetes", "FastAPI or Spring Boot", "AWS Architecture (ECS, Lambda, SQS)"],
+    "min_experience": "Intermediate",
+    "description": "Build high-reliability serverless event handlers and API gateways on AWS App Runner and Amazon ECS.",
+    "is_sample_data": true,
+    "source_dataset": "Hackathon Sample Dataset"
+  },
+  {
+    "id": "intern_004",
+    "title": "Full-Stack Web & AI Intern",
+    "company": "Vanguard Tech Studio",
+    "location": "Hyderabad (Remote Friendly)",
+    "role_category": "Full-Stack AI Engineer",
+    "stipend": "₹50,000 / month",
+    "duration": "3 Months",
+    "required_skills": ["React", "Python", "FastAPI", "SQL & Data Modeling", "Git"],
+    "min_experience": "Beginner to Intermediate",
+    "description": "Develop modern UI components with Tailwind CSS and wire them to generative AI backend orchestrators.",
+    "is_sample_data": true,
+    "source_dataset": "Hackathon Sample Dataset"
+  },
+  {
+    "id": "intern_005",
+    "title": "Frontend Engineering Intern",
+    "company": "Prism Interactive",
+    "location": "Austin, TX (Remote)",
+    "role_category": "Frontend Web Developer",
+    "stipend": "$32 / hr",
+    "duration": "12 Weeks",
+    "required_skills": ["React", "JavaScript & TypeScript", "Tailwind CSS & Responsive UI", "REST & GraphQL Integration"],
+    "min_experience": "Intermediate",
+    "description": "Build responsive student dashboards and visualization panels using React, Vite, and Lucide icons.",
+    "is_sample_data": true,
+    "source_dataset": "Hackathon Sample Dataset"
+  }
+]

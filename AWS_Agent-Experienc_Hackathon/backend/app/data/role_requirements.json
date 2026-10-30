@@ -1,0 +1,59 @@
+{
+  "Full-Stack AI Engineer": {
+    "title": "Full-Stack AI Engineer",
+    "required_skills": [
+      { "name": "Python", "importance": "critical", "min_proficiency": 4 },
+      { "name": "FastAPI", "importance": "high", "min_proficiency": 3 },
+      { "name": "React", "importance": "high", "min_proficiency": 3 },
+      { "name": "TypeScript", "importance": "medium", "min_proficiency": 3 },
+      { "name": "LLM Integration / Bedrock", "importance": "critical", "min_proficiency": 3 },
+      { "name": "Vector Databases / RAG", "importance": "high", "min_proficiency": 3 },
+      { "name": "Docker", "importance": "medium", "min_proficiency": 3 },
+      { "name": "AWS Cloud Foundations", "importance": "high", "min_proficiency": 3 },
+      { "name": "SQL & Data Modeling", "importance": "medium", "min_proficiency": 3 },
+      { "name": "Agentic Workflows / Strands", "importance": "critical", "min_proficiency": 3 }
+    ],
+    "description": "Designs and develops intelligent end-to-end applications bridging frontend experiences, backend services, AI agents, and AWS infrastructure."
+  },
+  "Data Scientist / ML Engineer": {
+    "title": "Data Scientist / ML Engineer",
+    "required_skills": [
+      { "name": "Python", "importance": "critical", "min_proficiency": 4 },
+      { "name": "PyTorch / TensorFlow", "importance": "critical", "min_proficiency": 3 },
+      { "name": "Pandas & NumPy", "importance": "high", "min_proficiency": 4 },
+      { "name": "SQL", "importance": "high", "min_proficiency": 4 },
+      { "name": "MLOps / Model Deployment", "importance": "high", "min_proficiency": 3 },
+      { "name": "Feature Engineering", "importance": "medium", "min_proficiency": 3 },
+      { "name": "Docker", "importance": "medium", "min_proficiency": 3 },
+      { "name": "AWS SageMaker", "importance": "medium", "min_proficiency": 3 }
+    ],
+    "description": "Builds, optimizes, and ships predictive and generative models, conducting rigorous experimentation and data pipeline engineering."
+  },
+  "Backend Cloud Engineer": {
+    "title": "Backend Cloud Engineer",
+    "required_skills": [
+      { "name": "Python", "importance": "high", "min_proficiency": 4 },
+      { "name": "Go or Java", "importance": "medium", "min_proficiency": 3 },
+      { "name": "FastAPI or Spring Boot", "importance": "critical", "min_proficiency": 4 },
+      { "name": "PostgreSQL & Redis", "importance": "critical", "min_proficiency": 4 },
+      { "name": "Docker & Kubernetes", "importance": "high", "min_proficiency": 3 },
+      { "name": "AWS Architecture (ECS, Lambda, SQS)", "importance": "critical", "min_proficiency": 3 },
+      { "name": "CI/CD & GitHub Actions", "importance": "high", "min_proficiency": 3 },
+      { "name": "System Design & Distributed Systems", "importance": "high", "min_proficiency": 3 }
+    ],
+    "description": "Constructs high-throughput microservices, scalable distributed backends, resilient APIs, and automated cloud deployments."
+  },
+  "Frontend Web Developer": {
+    "title": "Frontend Web Developer",
+    "required_skills": [
+      { "name": "React", "importance": "critical", "min_proficiency": 4 },
+      { "name": "JavaScript & TypeScript", "importance": "critical", "min_proficiency": 4 },
+      { "name": "Tailwind CSS & Responsive UI", "importance": "high", "min_proficiency": 4 },
+      { "name": "State Management (Zustand/Redux)", "importance": "high", "min_proficiency": 3 },
+      { "name": "REST & GraphQL Integration", "importance": "high", "min_proficiency": 3 },
+      { "name": "Web Performance & Accessibility", "importance": "medium", "min_proficiency": 3 },
+      { "name": "Git & Collaboration", "importance": "medium", "min_proficiency": 3 }
+    ],
+    "description": "Crafts intuitive, responsive user experiences, accessible interfaces, and interactive web application frontends."
+  }
+}

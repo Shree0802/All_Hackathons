@@ -1,0 +1,167 @@
+[
+  {
+    "id": "act_1792744310994",
+    "timestamp": "2026-10-23T08:31:50.994211+00:00",
+    "user_request": "Conduct a technical mock interview with me for Full-Stack AI Engineer",
+    "selected_action": "prepare_interview",
+    "tool_name": "prepare_interview",
+    "decision_source": "demo_heuristic_stub",
+    "confidence": 0.6278,
+    "status": "success",
+    "execution_time_ms": 559.1
+  },
+  {
+    "id": "act_1792744299717",
+    "timestamp": "2026-10-23T08:31:39.717602+00:00",
+    "user_request": "Conduct a technical mock interview with me for Full-Stack AI Engineer",
+    "selected_action": "prepare_interview",
+    "tool_name": "prepare_interview",
+    "decision_source": "demo_heuristic_stub",
+    "confidence": 0.6278,
+    "status": "success",
+    "execution_time_ms": 536.07
+  },
+  {
+    "id": "act_1792744286633",
+    "timestamp": "2026-10-23T08:31:26.633499+00:00",
+    "user_request": "How can I optimize my resume and prepare for the 'Full-Stack Web & AI Intern' role at Vanguard Tech Studio?",
+    "selected_action": "search_internships",
+    "tool_name": "search_internships",
+    "decision_source": "demo_heuristic_stub",
+    "confidence": 0.6278,
+    "status": "success",
+    "execution_time_ms": 349.49
+  },
+  {
+    "id": "act_1792744284128",
+    "timestamp": "2026-10-23T08:31:24.128167+00:00",
+    "user_request": "How can I optimize my resume and prepare for the 'Full-Stack Web & AI Intern' role at Vanguard Tech Studio?",
+    "selected_action": "search_internships",
+    "tool_name": "search_internships",
+    "decision_source": "demo_heuristic_stub",
+    "confidence": 0.6278,
+    "status": "success",
+    "execution_time_ms": 353.83
+  },
+  {
+    "id": "act_1792744276249",
+    "timestamp": "2026-10-23T08:31:16.249720+00:00",
+    "user_request": "Assess my skill gaps for Full-Stack AI Engineer",
+    "selected_action": "assess_skill_gaps",
+    "tool_name": "assess_skill_gaps",
+    "decision_source": "demo_heuristic_stub",
+    "confidence": 0.6278,
+    "status": "success",
+    "execution_time_ms": 594.17
+  },
+  {
+    "id": "act_1792744276247",
+    "timestamp": "2026-10-23T08:31:16.247649+00:00",
+    "user_request": "Assess my skill gaps for Full-Stack AI Engineer",
+    "selected_action": "assess_skill_gaps",
+    "tool_name": "assess_skill_gaps",
+    "decision_source": "demo_heuristic_stub",
+    "confidence": 0.6278,
+    "status": "success",
+    "execution_time_ms": 591.71
+  },
+  {
+    "id": "act_1792744234511",
+    "timestamp": "2026-10-23T08:30:34.511040+00:00",
+    "user_request": "Assess my skill gaps for Full-Stack AI Engineer and show what I'm missing",
+    "selected_action": "assess_skill_gaps",
+    "tool_name": "assess_skill_gaps",
+    "decision_source": "demo_heuristic_stub",
+    "confidence": 0.6278,
+    "status": "success",
+    "execution_time_ms": 329.19
+  },
+  {
+    "id": "act_1792744230287",
+    "timestamp": "2026-10-23T08:30:30.287783+00:00",
+    "user_request": "Assess my skill gaps for Full-Stack AI Engineer and show what I'm missing",
+    "selected_action": "assess_skill_gaps",
+    "tool_name": "assess_skill_gaps",
+    "decision_source": "demo_heuristic_stub",
+    "confidence": 0.6278,
+    "status": "success",
+    "execution_time_ms": 2803.91
+  },
+  {
+    "id": "act_1792743727608",
+    "timestamp": "2026-10-23T08:22:07.608492+00:00",
+    "user_request": "Assess my skill gaps for Full-Stack AI Engineer",
+    "selected_action": "assess_skill_gaps",
+    "tool_name": "assess_skill_gaps",
+    "decision_source": "demo_heuristic_stub",
+    "confidence": 0.6278,
+    "status": "success",
+    "execution_time_ms": 2212.62
+  },
+  {
+    "id": "act_1792743656958",
+    "timestamp": "2026-10-23T08:20:56.958204+00:00",
+    "user_request": "Assess my skill gaps for Full-Stack AI Engineer",
+    "selected_action": "assess_skill_gaps",
+    "tool_name": "assess_skill_gaps",
+    "decision_source": "demo_heuristic_stub",
+    "confidence": 0.6278,
+    "status": "success",
+    "execution_time_ms": 2367.81
+  },
+  {
+    "id": "act_1792742734169",
+    "timestamp": "2026-10-23T08:05:34.169928+00:00",
+    "user_request": "Assess my skill gaps for Full-Stack AI Engineer",
+    "selected_action": "assess_skill_gaps",
+    "tool_name": "assess_skill_gaps",
+    "decision_source": "demo_heuristic_stub",
+    "confidence": 0.6278,
+    "status": "success",
+    "execution_time_ms": 2237.25
+  },
+  {
+    "id": "act_1792742042577",
+    "timestamp": "2026-10-23T07:54:02.577387+00:00",
+    "user_request": "Assess my skill gaps for Full-Stack AI Engineer",
+    "selected_action": "assess_skill_gaps",
+    "tool_name": "assess_skill_gaps",
+    "decision_source": "demo_heuristic_stub",
+    "confidence": 0.6278,
+    "status": "success",
+    "execution_time_ms": 2141.15
+  },
+  {
+    "id": "act_1792742020338",
+    "timestamp": "2026-10-23T07:53:40.338723+00:00",
+    "user_request": "Assess my skill gaps for Full-Stack AI Engineer",
+    "selected_action": "assess_skill_gaps",
+    "tool_name": "assess_skill_gaps",
+    "decision_source": "demo_heuristic_stub",
+    "confidence": 0.6278,
+    "status": "success",
+    "execution_time_ms": 2295.56
+  },
+  {
+    "id": "act_001",
+    "timestamp": "2026-10-23T10:15:30Z",
+    "user_request": "Analyze my skill gaps for Full-Stack AI Engineer",
+    "selected_action": "assess_skill_gaps",
+    "tool_name": "assess_skill_gaps",
+    "decision_source": "strands_decider_2b_live",
+    "confidence": 0.89,
+    "status": "success",
+    "execution_time_ms": 142.5
+  },
+  {
+    "id": "act_002",
+    "timestamp": "2026-10-23T11:04:12Z",
+    "user_request": "What project should I build to showcase LLMs and agents?",
+    "selected_action": "recommend_project",
+    "tool_name": "recommend_project",
+    "decision_source": "strands_decider_2b_live",
+    "confidence": 0.92,
+    "status": "success",
+    "execution_time_ms": 185.3
+  }
+]

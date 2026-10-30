@@ -1,0 +1,89 @@
+{
+  "std_dev_001": {
+    "student_id": "std_dev_001",
+    "target_role": "Full-Stack AI Engineer",
+    "total_weeks": 6,
+    "stages": [
+      {
+        "week": 1,
+        "title": "Foundation: API Frameworks & LLM Primitives",
+        "focus": "FastAPI, Pydantic, and Amazon Bedrock Converse API",
+        "tasks": [
+          "Implement a typed REST endpoint using FastAPI and Pydantic validation",
+          "Configure AWS credentials and call Amazon Bedrock Claude 3.5 Sonnet",
+          "Handle rate limits, timeouts, and structured JSON output parsing"
+        ],
+        "mini_project": "Bedrock AI Summarizer Microservice",
+        "checkpoint": "Pass all automated API test cases with 100% coverage",
+        "completed": true
+      },
+      {
+        "week": 2,
+        "title": "Decision Routing: Strands Decider 2B",
+        "focus": "System One wire protocol (/v1/systemone) and calibrated confidence",
+        "tasks": [
+          "Study Strands Decider 2B architecture (torso + generic pointer head)",
+          "Build a choice question schema with criteria descriptions",
+          "Implement confidence thresholding: (N*p_max - 1)/(N - 1) >= 0.70"
+        ],
+        "mini_project": "Sub-50ms Intent Classifier & Tool Router",
+        "checkpoint": "Benchmark routing latency vs full LLM invocations",
+        "completed": false
+      },
+      {
+        "week": 3,
+        "title": "Orchestration & Interventions: Strands Agents SDK",
+        "focus": "Agent harness, tool registries, and InterventionHandler",
+        "tasks": [
+          "Define typed agent tools using @tool decorator",
+          "Implement BeforeToolCall and AfterToolCall lifecycle hooks",
+          "Add guardrails to prevent unsafe or malformed tool invocations"
+        ],
+        "mini_project": "Multi-Tool Career Agent Harness",
+        "checkpoint": "Agent autonomously routes and executes appropriate tools",
+        "completed": false
+      },
+      {
+        "week": 4,
+        "title": "Frontend Experience: React & Vite Dashboard",
+        "focus": "React components, Tailwind CSS, and Lucide icons",
+        "tasks": [
+          "Build responsive dark-mode dashboard with modern card hierarchy",
+          "Create interactive Decision Trace visualization panel",
+          "Implement Recharts radar and bar visualizers for skill metrics"
+        ],
+        "mini_project": "SkillPilot Interactive UI",
+        "checkpoint": "Zero console errors and clean mobile responsiveness",
+        "completed": false
+      },
+      {
+        "week": 5,
+        "title": "Cloud Architecture & Containerization: Docker & AWS",
+        "focus": "Dockerfile, AWS App Runner, and ECS deployment patterns",
+        "tasks": [
+          "Write multi-stage Dockerfiles for backend FastAPI and frontend Vite",
+          "Configure AWS IAM roles following least-privilege principles",
+          "Set up environment variables and health check probes"
+        ],
+        "mini_project": "AWS App Runner Cloud Deployment",
+        "checkpoint": "Public health check returns 200 OK with live telemetry",
+        "completed": false
+      },
+      {
+        "week": 6,
+        "title": "Portfolio Showcase & Interview Readiness",
+        "focus": "GitHub repository polish, video demo, and architecture documentation",
+        "tasks": [
+          "Write professional README.md with architecture diagrams and setup guide",
+          "Record concise <3 min video walkthrough demonstrating decision flow",
+          "Draft AWS Builder Center article explaining reusable decision pattern"
+        ],
+        "mini_project": "Public Portfolio Release",
+        "checkpoint": "Complete Hackathon Submission Checklist verified",
+        "completed": false
+      }
+    ],
+    "recommended_next_action": "Begin Week 2: Implement Strands Decider 2B System One wire protocol integration",
+    "estimated_hours_per_week": 12
+  }
+}

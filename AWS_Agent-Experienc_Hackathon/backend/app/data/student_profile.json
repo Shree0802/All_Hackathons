@@ -1,0 +1,66 @@
+{
+  "id": "std_dev_001",
+  "name": "Alex Sharma",
+  "email": "alex.sharma@campus.edu",
+  "academic_branch": "Computer Science & Engineering",
+  "graduation_year": 2026,
+  "target_role": "Full-Stack AI Engineer",
+  "current_experience_level": "Intermediate",
+  "skills": [
+    {
+      "name": "Python",
+      "category": "technical",
+      "proficiency": 4
+    },
+    {
+      "name": "FastAPI",
+      "category": "framework",
+      "proficiency": 3
+    },
+    {
+      "name": "React",
+      "category": "framework",
+      "proficiency": 3
+    },
+    {
+      "name": "JavaScript",
+      "category": "technical",
+      "proficiency": 3
+    },
+    {
+      "name": "SQL",
+      "category": "technical",
+      "proficiency": 3
+    },
+    {
+      "name": "Git",
+      "category": "tool",
+      "proficiency": 4
+    },
+    {
+      "name": "Docker",
+      "category": "tool",
+      "proficiency": 2
+    },
+    {
+      "name": "Machine Learning Basics",
+      "category": "technical",
+      "proficiency": 3
+    }
+  ],
+  "interests": [
+    "Agentic AI",
+    "Cloud Architecture",
+    "Applied NLP",
+    "Full-Stack Web"
+  ],
+  "preferred_locations": [
+    "Remote",
+    "Bengaluru",
+    "Hyderabad",
+    "Seattle",
+    "Austin"
+  ],
+  "github_url": "https://github.com/alex-sharma",
+  "linkedin_url": "https://linkedin.com/in/alex-sharma"
+}
